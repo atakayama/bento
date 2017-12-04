@@ -1,0 +1,4 @@
+*.swp
+/out.csv
+/work/
+*.pyc
